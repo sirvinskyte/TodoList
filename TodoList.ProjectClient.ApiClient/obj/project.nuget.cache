@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZnx9G2zpULLv6hc3P6ZYTp1zv8ohIO+RVOUcZ9rMv2G3CYafHAUpKulmaU0gl/vxXdzS9ZCr32qGG0c+Fcf4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\TodoListApp\\TodoList.ProjectClient.ApiClient\\TodoList.ProjectClient.ApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
